@@ -28,7 +28,8 @@ import {
 // --- Constants & Data ---
 
 const RESUME_URL = "/Gem_poorna_resume.pdf";
-const PROFILE_IMAGE = "formal.jpeg";
+const PROFILE_IMAGE = "https://i.ibb.co/Mk4GXddf/formal.jpg";
+
 
 const NAV_LINKS = [
   { name: 'HOME', href: '#home' },
